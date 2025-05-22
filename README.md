@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max
 
-I'm a passionate and pragmatic **software developer** with experience building full-stack applications, browser-based tools, and interactive games. I enjoy creating clean, efficient, and user-friendly software — whether it's a data-driven finance app, a news discussion platform, or a custom-built game engine in Java.
+I'm a passionate and pragmatic **software developer** with experience building full-stack applications, browser-based tools, and interactive games. I enjoy creating clean, efficient, and user-friendly software.
 
 I'm currently seeking opportunities in **software development**, where I can continue to grow as an engineer and contribute to impactful, real-world projects.
 
