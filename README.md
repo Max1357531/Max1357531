@@ -32,7 +32,7 @@ A turn-based strategy game written entirely in **Java**, featuring custom graphi
 ## 👨‍💻 About Me
 - 🧗‍♂️ Avid climber — I regularly enter **bouldering competitions** at local climbing gyms, excited to discover more outdoor climbs near me 
 - 🏋️ Gym enthusiast — currently working on improving **deadlift** and **bench press**  
-- 🎬 Film fan — anything by **Aaron Sorkin** and **Guy Ritchie**  
+- 🎬 Film fan — anything by **Aaron Sorkin** or **Guy Ritchie**  
 - ♟️ Not so brilliant **chess player**  
 - 🧠 Enjoy solving **sudokus** and **cryptic crosswords**  
 - 🚀 Always looking for new challenges that blend logic, creativity, and problem-solving
