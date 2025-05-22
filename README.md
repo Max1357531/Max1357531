@@ -29,7 +29,14 @@ A full-stack news discussion platform with upvoting, commenting, and responsive 
 A turn-based strategy game written entirely in **Java**, featuring custom graphics, an AI opponent, and an original algorithm for **procedural hex map generation**. Designed with an OOP architecture and real-time rendering engine.
 
 ---
-
+## 👨‍💻 About Me
+- 🧗‍♂️ Avid climber — I regularly enter **bouldering competitions** at local climbing gyms, excited to discover more outdoor climbs near me 
+- 🏋️ Gym enthusiast — currently working on improving **deadlift** and **bench press**  
+- 🎬 Film fan — anything by **Aaron Sorkin** and **Guy Ritchie**  
+- ♟️ Not so brilliant **chess player**  
+- 🧠 Enjoy solving **sudokus** and **cryptic crosswords**  
+- 🚀 Always looking for new challenges that blend logic, creativity, and problem-solving
+---
 ## 📫 Get in Touch
 
 I'm open to job opportunities in **software engineering**, whether frontend, backend, or full-stack. If you'd like to collaborate or have a role that might be a good fit, feel free to reach out:
