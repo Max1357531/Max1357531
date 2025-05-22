@@ -8,11 +8,11 @@ I'm currently seeking opportunities in **software development**, where I can con
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Java, SQL  
+- **Languages**: JavaScript, Java, SQL, Python
 - **Frontend**: React, Vue.js, Tailwind CSS, Chart.js  
-- **Backend**: Node.js, Express, Fastify, MongoDB, PostgreSQL  
+- **Backend**: Node.js, Express, Fastify, MongoDB, PostgreSQL 
 - **Testing**: Jest, Supertest  
-- **Deployment**: Vercel, Render  
+- **Deployment**: Vercel, Render, Supabase  
 - **Other**: RESTful APIs, MVC architecture, OOP, Git, CI/CD
 
 ---
@@ -34,8 +34,8 @@ A turn-based strategy game written entirely in **Java**, featuring custom graphi
 
 I'm open to job opportunities in **software engineering**, whether frontend, backend, or full-stack. If you'd like to collaborate or have a role that might be a good fit, feel free to reach out:
 
-- 📧 [Email me](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 [Email me](mailto:max.kilburn99@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/max-kilburn-30806019b/))
 - 🧑‍💻 [View my GitHub](https://github.com/Max1357531)
 
 Thanks for stopping by!
